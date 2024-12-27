@@ -1,4 +1,16 @@
-# HOUSE_PRICE_PREDICTION
+# CODTECH TASK2
+NAME : Abhinaba dey
+---
+COMPANY : CODTECH IT SOLUTIONS
+---
+ID : CT08DXK
+---
+DOMAIN : Machine learning
+---
+DURATION : december 2024 to january 2025
+---
+MENTOR : Sravani gouni
+---
 Excited to share my latest project: a House Price Prediction Model powered by advanced machine learning algorithms! 
 With the ever-fluctuating real estate market, predicting house prices can be quite challenging. To address this, I developed a model that uses historical data, market trends, and various property features to accurately forecast house prices.
 🔍 Key Features of the Model:
